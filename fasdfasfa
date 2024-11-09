@@ -1,0 +1,55 @@
+[33mcommit 5c5c876c732e4518d481810c2cf60dee1b9e3d40[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: alvinj875 <alvinj875@gmail.com>
+Date:   Sun Nov 10 00:44:49 2024 +0300
+
+    Update README.md
+
+[33mcommit 52f64a42969595ce8d3f19e2089001d30116d6ab[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: 58c5f84 63a1388
+Author: Alvin Jaison <alvinj875@gmail.com>
+Date:   Sat Nov 9 23:46:50 2024 +0300
+
+    merged with hello-world-images after fixing conflicts
+
+[33mcommit 63a13880b8af8462d9383ba51298f1bb054d0895[m
+Author: Alvin Jaison <alvinj875@gmail.com>
+Date:   Sat Nov 9 23:28:01 2024 +0300
+
+    added my name
+
+[33mcommit 58c5f84d249315782c095b22d7e1c3a751f7dbff[m
+Merge: 88b8fb5 ab18d57
+Author: Alvin Jaison <alvinj875@gmail.com>
+Date:   Sat Nov 9 23:18:20 2024 +0300
+
+    Merge branch 'hello-world-images'
+
+[33mcommit ab18d57f9a00b0affc8185b59f6646b885aecf12[m
+Author: Alvin Jaison <alvinj875@gmail.com>
+Date:   Sat Nov 9 23:17:21 2024 +0300
+
+    added new image
+
+[33mcommit 88b8fb57abdea067b6bbadcc7a4e583fff5dce47[m
+Author: Alvin Jaison <alvinj875@gmail.com>
+Date:   Sat Nov 9 22:50:55 2024 +0300
+
+    updated index.html with emergency fix
+
+[33mcommit f55a213090683597b98379e7f6d9fd2fb0874c8f[m
+Author: Alvin Jaison <alvinj875@gmail.com>
+Date:   Sat Nov 9 22:38:43 2024 +0300
+
+    Added image to the Hello World
+
+[33mcommit 75ae5b1277f15067c892a3b55d6470cbb3fe305f[m
+Author: Alvin Jaison <alvinj875@gmail.com>
+Date:   Sat Nov 9 21:35:25 2024 +0300
+
+    Updated index.html with a new line
+
+[33mcommit 3ea0a3526f427d7763013cd1a2e056ac6172f2ed[m
+Author: Alvin Jaison <alvinj875@gmail.com>
+Date:   Sat Nov 9 21:32:33 2024 +0300
+
+    First release of Hello World!
