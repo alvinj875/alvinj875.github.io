@@ -6,7 +6,6 @@ This repository is built step by step in the tutorial.
 
 It now includes the step for the GitHub
 
-Alvin Weds Sneha
+Alvin Weds Sneha.
 
-Aug 24th
-your invited 
+Searching for the jobs 
