@@ -9,3 +9,5 @@ It now includes the step for the GitHub
 Alvin Weds Sneha.
 
 Searching for the jobs 
+
+Checking the neary schools 
