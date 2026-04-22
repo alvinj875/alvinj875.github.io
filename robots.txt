@@ -4,3 +4,19 @@ Disallow: /tmp/
 Allow: /
 
 Sitemap: https://alvinjaison.com/sitemap.xml
+
+
+@IsInPageList("Disbursement of aid to those affected by crises and disasters",".PermissionValue",TempManageUser.SystemAccess)
+
+TempManageUser.SystemAccess
+
+
+Param.SplClassificationID!=""&&Param.DepartmentID!=""&&@LengthOfPageList(D_GetRoutingMatrixConfig.pxResults)>0
+
+A risk assessment of your current portfolio
+
+A recovery projection model based on your repayment schedule
+
+A decision framework on whether to continue or exit Xtra
+
+A draft for RBI Ombudsman escalation (if they still avoid transparency)
